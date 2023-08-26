@@ -100,12 +100,11 @@ DATABASES = {
 }
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000", 
-    "http://localhost:3001"
+    "https://django-bloggingwebsite-frontend.onrender.com/"
       # Replace with the actual frontend URL
 ]
 
-CSRF_TRUSTED_ORIGINS = ['http://localhost:3000','http://lcoalhost:3001']
+CSRF_TRUSTED_ORIGINS = ['https://django-bloggingwebsite-frontend.onrender.com/']
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
 
