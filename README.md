@@ -8,4 +8,6 @@ Pagination for Posts: Display posts in manageable pages for smooth browsing.
 Likes and Comments: Enable users to engage with posts through likes and comments.
 
 
-You can test it on https://django-bloggingwebsite-frontend.onrender.com/
+Backend Code deployed on:https://djnago-myblogs-site.onrender.com/admin/login/?next=/admin/
+Frontend Code deployed on : https://django-bloggingwebsite-frontend.onrender.com/
+Frontend Code github Link:- https://github.com/priyanshi-2001/ExpressThoughts_Frontend
